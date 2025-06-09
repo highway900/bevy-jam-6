@@ -665,6 +665,7 @@ fn no_shadow_bird_on_gltf_butcher(
     }
 }
 
+#[allow(dead_code)]
 const PALETTE: [&'static str; SEQUENCE_LENGTH] = [
     "#FF8383", "#FFF574", "#A1D6CB", "#A19AD3", "#ca5a2e", "#FFF574", "#A1D6CB", "#A19AD3",
 ];
